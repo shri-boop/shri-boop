@@ -94,11 +94,11 @@ Vapi · Azure Neural Voices
 
 [**shri-boop/agentic-dev-stack**](https://github.com/shri-boop/agentic-dev-stack)
 
-A production-oriented development environment for AI-assisted software engineering, combining AI coding agents, Git/GitHub workflows, automation, validation and deployment practices.
+A production-oriented development environment for AI-assisted software engineering, workflow automation, application services, infrastructure, and deployment.
 
-The repository documents the engineering patterns and tooling I use to build, test, iterate and maintain AI-powered systems.
+The repository documents the engineering patterns and technical foundation used to build, test, iterate, and maintain AI-powered systems.
 
-**Repository:** [github.com/shri-boop/agentic-dev-stack](https://github.com/shri-boop/agentic-dev-stack)
+**Explore:** [Agentic Dev Stack →](https://github.com/shri-boop/agentic-dev-stack)
 
 ---
 
