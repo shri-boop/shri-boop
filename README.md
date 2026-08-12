@@ -84,13 +84,17 @@ REST APIs · OAuth 2.0 · Google APIs · LinkedIn APIs · WordPress REST API · 
 
 Docker · Docker Compose · Git/GitHub · CI/CD · Cloud Infrastructure
 
+**Voice & AI Runtime**
+
+Vapi · Azure Neural Voices
+
 ---
 
 ## Public & Private Work
 
 Selected public repositories demonstrate reusable engineering patterns and implementations.
 
-My primary production systems and client architectures remain private because they contain proprietary code, credentials, integrations, and business data.
+Primary production systems and client architectures remain private due to  proprietary code, credentials, integrations, and business data.
 
 Production architecture and selected systems can be discussed or demonstrated where appropriate.
 
@@ -98,7 +102,7 @@ Production architecture and selected systems can be discussed or demonstrated wh
 
 ## Current Focus
 
-Building and operating production agentic AI systems through KRATU AI Labs — with a focus on reliable orchestration, AI-powered business automation, search intelligence, and enterprise-grade AI systems.
+Building and operating production agentic AI systems through KRATU AI Labs — combining LLMs, workflow orchestration, data architecture and enterprise integrations to turn complex business processes into reliable AI systems.
 
 ---
 
@@ -106,4 +110,4 @@ Building and operating production agentic AI systems through KRATU AI Labs — w
 
 **Intelligence, Engineered to Act**
 
-[Website](https://kratuailabs.com) · [LinkedIn](YOUR_LINKEDIN_URL)
+· https://kratuailabs.com · https://www.linkedin.com/in/shrinand-shirwal-2151b51a4/
