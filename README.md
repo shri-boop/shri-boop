@@ -27,7 +27,7 @@ My work combines LLMs, workflow orchestration, data architecture, APIs, and prod
 ## Selected Systems
 
 ### SEO Search Dominance System
-Autonomous SEO and search-intelligence platform covering research, keyword targeting, content generation, distribution, competitor intelligence, semantic internal linking, rank feedback, technical SEO, authority, AEO/GEO and self-healing.
+Autonomous SEO & search-intelligence platform spanning research, targeting, content, distribution, competitor intelligence, semantic linking and rank feedback.
 
 ### AI Lead Intelligence & Voice Systems
 Inbound/outbound voice automation for lead qualification, context-aware conversations, follow-ups, multilingual routing and AMC renewal workflows.
@@ -38,7 +38,7 @@ AI-powered CAD/PDF → engineering interpretation → code-aware BOQ generation 
 ### AI Field Auditor
 AI-powered inspection and compliance workflow converting field information and imagery into structured, code-referenced audit reports.
 
-### CPA + SMA -- Content Publisher Agent + Social Media Relationship Intelligence Agent
+### CPA + SMA -- Content & Relationship Agent
 Content and relationship intelligence agents combining brand-governed content generation with prospect engagement, RAG-grounded social interactions, inbox intelligence and relationship tracking.
 
 ---
