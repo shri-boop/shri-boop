@@ -38,7 +38,7 @@ AI-powered CAD/PDF → engineering interpretation → code-aware BOQ generation 
 ### AI Field Auditor
 AI-powered inspection and compliance workflow converting field information and imagery into structured, code-referenced audit reports.
 
-### CPA + SMA
+### CPA + SMA -- Content Publisher Agent + Social Media Relationship Intelligence Agent
 Content and relationship intelligence agents combining brand-governed content generation with prospect engagement, RAG-grounded social interactions, inbox intelligence and relationship tracking.
 
 ---
